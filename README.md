@@ -1,2 +1,2 @@
-# Reverse-it-EDYODA
+#EDYODA
 EDYODA assignment-1
